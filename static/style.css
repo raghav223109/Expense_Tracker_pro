@@ -1,0 +1,70 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    transition: background 0.3s;
+}
+
+.dark {
+
+    background-color: #0f172a;
+
+    color: white;
+}
+
+.light {
+
+    background-color: #f8fafc;
+
+    color: black;
+}
+
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+
+    background: #1e293b;
+}
+
+::-webkit-scrollbar-thumb {
+
+    background: #06b6d4;
+
+    border-radius: 10px;
+}
+
+
+/* CARD HOVER */
+
+.card-hover {
+
+    transition: 0.3s;
+}
+
+.card-hover:hover {
+
+    transform: translateY(-3px);
+
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+
+/* BUTTON */
+
+.primary-btn {
+
+    background: #06b6d4;
+
+    transition: 0.3s;
+}
+
+.primary-btn:hover {
+
+    background: #0891b2;
+}

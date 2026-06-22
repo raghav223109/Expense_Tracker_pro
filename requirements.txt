@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Mail
+Flask-WTF
+Werkzeug
+itsdangerous
+pandas
+openpyxl
+reportlab
+python-dotenv

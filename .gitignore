@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# Flask instance folder (contains secrets/config)
+instance/
+
+# dotenv
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
+
+# JetBrains / IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+*.manifest
+*.spec
+
+# mypy / cache
+.mypy_cache/
+.ruff_cache/
+
+# Coverage and test output
+.coverage
+coverage/
+
+# Node
+node_modules/
+
+# Build artifacts
+build/
+dist/
+staticfiles/
+
+# Pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# wheel
+*.whl
+
+# Misc
+*.egg
+*.egg-info/
+*.swp
