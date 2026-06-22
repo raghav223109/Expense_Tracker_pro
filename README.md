@@ -71,9 +71,4 @@ Place runtime configuration or secrets in the `instance/` folder (not checked in
 2. Create a feature branch
 3. Open a pull request with a clear description
 
-## License
 
-Specify a license for your project here.
-
----
-If you want, I can add a `.gitignore`, update `requirements.txt`, or expand the README with deployment instructions.
